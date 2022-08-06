@@ -14,7 +14,7 @@ Actvate it by using a terminal
 ```
 ./venv/Scripts/activate
 ```
-If you have issues see with VS Studio Code see [this](https://stackoverflow.com/questions/56199111/visual-studio-code-cmd-error-cannot-be-loaded-because-running-scripts-is-disabl/67420296#67420296).
+If you have issues with VS Studio Code see [this](https://stackoverflow.com/questions/56199111/visual-studio-code-cmd-error-cannot-be-loaded-because-running-scripts-is-disabl/67420296#67420296).
 
 Update pip and install tools
 ```
