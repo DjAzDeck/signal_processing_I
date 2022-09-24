@@ -1,5 +1,6 @@
 Signal Processing I
 =============
+Codebase for the article **An explanation of Artificial Intelligence in Electronic Support Systems for Maritime Operations** available [here](https://www.proelasi.com/mia-epexigisi-tis-technitis-noimosynis-se-systimata-ilektronikis-ypostirixis-gia-naftikes-epicheiriseis/).
 
 Upgrade of the code from [[1]](https://towardsdatascience.com/machine-learning-and-signal-processing-103281d27c4b). Additional resources on embedded signals - **Classification with Similarity Search** [[2]](https://medium.com/gsi-technology/classification-with-similarity-search-26d0bc711270).
 A usefull guide for timeseries can be found [here](https://www.machinelearningplus.com/time-series/time-series-analysis-python/).
